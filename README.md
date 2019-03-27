@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19df63ff-83e5-4310-b49a-1e5cc7064a40/deploy-status)](https://app.netlify.com/sites/adoring-fermi-df4471/deploys)
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
